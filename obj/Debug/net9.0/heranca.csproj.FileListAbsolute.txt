@@ -1,0 +1,15 @@
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.AssemblyInfoInputs.cache
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.AssemblyInfo.cs
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.csproj.CoreCompileInputs.cache
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.sourcelink.json
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\bin\Debug\net9.0\heranca.exe
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\bin\Debug\net9.0\heranca.deps.json
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\bin\Debug\net9.0\heranca.runtimeconfig.json
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\bin\Debug\net9.0\heranca.dll
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\bin\Debug\net9.0\heranca.pdb
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.dll
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\refint\heranca.dll
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.pdb
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\heranca.genruntimeconfig.cache
+C:\ProgramacaoAPP\natan\atividades\POO\heranca\obj\Debug\net9.0\ref\heranca.dll
